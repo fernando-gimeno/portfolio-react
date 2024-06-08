@@ -27,5 +27,12 @@
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandouy/portfolio-react.git"
+  },
+  "homepage": "https://fernandogimeno.netlify.app/",
+  "author": "Fernando Gimeno",
+  "license": "MIT"
 }
